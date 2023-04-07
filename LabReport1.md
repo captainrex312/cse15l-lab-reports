@@ -18,7 +18,9 @@ Download the version of Visual Studio Code which is required for your operating 
 [Using Base on Windows in VScode](https://stackoverflow.com/a/50527994)
 
 ## Step 3 : Login to ssh
+First we have to get access to your course-specified CSE15L account here:\
 
+[Account](https://sdacs.ucsd.edu/~icc/index.php)\
 
 To use ssh, open a terminal in VScode. Your command will look like this but with the first part behind the @ being either your UCSD login or the course specified login (cs15l....):\
 $ ssh cs15lwi23zz@ieng6.ucsd.edu\

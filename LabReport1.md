@@ -5,3 +5,6 @@
 ## Step 1: Download Visual Studio Code
 ![Image](Download VSCode.JPG)
 
+
+Download the version of Visual Studio Code which is required for your operating system.
+

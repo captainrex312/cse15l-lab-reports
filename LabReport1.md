@@ -26,4 +26,6 @@ It will prompt you to enter password, but it will **NOT** appear to be typing in
 
 
 An example of what should pop up in terminal:\
+
+
 ![Image](1.JPG)

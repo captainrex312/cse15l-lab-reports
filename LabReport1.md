@@ -3,5 +3,5 @@
 
 
 ## Step 1: Download Visual Studio Code
-![Image](Download VSCode.jpg)
+![Image](Download VSCode.JPG)
 

@@ -32,7 +32,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?*\
 Type **Yes** and enter, then enter your password.
 
 An example of what should pop up in terminal:\
-![Image](1.JPG)
+![Image](1.JPG)\
 (This example uses my UCSD login rather than course specific but it looks the same with the course specific login)
 ## Step 4 : Run Some Commands
 

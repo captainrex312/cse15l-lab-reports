@@ -33,3 +33,22 @@ Type **Yes** and enter, then enter your password.
 
 An example of what should pop up in terminal:\
 ![Image](1.JPG)
+
+## Step 4 : Run Some Commands
+
+Try running the commands cd, ls, pwd, mkdir, and cp a few times in different ways, both on your computer, and on the remote computer after ssh-ing (use the terminal in VScode).
+
+Here are some specific useful commands to try:
+
+-cd ~\
+-cd\
+-ls -lat\
+-ls -a\
+-ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username\
+-cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/\
+-cat /home/linux/ieng6/cs15lsp23/public/hello.txt\
+
+Hint: To log out of the remote server in your terminal, you can use:
+
+-Ctrl-D\
+-Run the command exit\

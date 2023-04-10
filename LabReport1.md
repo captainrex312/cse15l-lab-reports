@@ -25,7 +25,7 @@ First we have to get access to your course-specified CSE15L account here:
 To use ssh, open a terminal in VScode. Your command will look like this but with the first part behind the @ being the course specified login (cs15l....):\
 $ ssh cs15lwi23zz@ieng6.ucsd.edu\
 It will prompt you to enter password, but it will **NOT** appear to be typing in terminal. This is for security reasons.\
-Since this is the first time you will connect to the server you will get prompted a message like this:
+Since this is the first time you will connect to the server you will get prompted a message like this:\
 *The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?*
@@ -44,11 +44,9 @@ Here are some specific useful commands to try:
 -cd\
 -ls -lat\
 -ls -a\
--ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username\
--cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/\
--cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 
-Hint: To log out of the remote server in your terminal, you can use:
+## Step 5 : Logout of Server
+In order to log out of the remote server in your terminal, you can use:
 
 -Ctrl-D\
 -Run the command: exit

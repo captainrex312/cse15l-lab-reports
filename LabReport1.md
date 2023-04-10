@@ -28,7 +28,7 @@ It will prompt you to enter password, but it will **NOT** appear to be typing in
 Since this is the first time you will connect to the server you will get prompted a message like this:\
 *The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])?*
+Are you sure you want to continue connecting (yes/no/[fingerprint])?*\
 Type **Yes** and enter, then enter your password.
 
 An example of what should pop up in terminal:\

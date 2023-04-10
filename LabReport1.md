@@ -33,7 +33,7 @@ Type **Yes** and enter, then enter your password.
 
 An example of what should pop up in terminal:\
 ![Image](1.JPG)
-
+(This example uses my UCSD login rather than course specific but it looks the same with the course specific login)
 ## Step 4 : Run Some Commands
 
 Try running the commands cd, ls, pwd, mkdir, and cp a few times in different ways, both on your computer, and on the remote computer after ssh-ing (use the terminal in VScode).

@@ -19,7 +19,7 @@ For Windows example:
 [Git for Windows](https://gitforwindows.org/)
 
 
-[Using Base on Windows in VScode](https://stackoverflow.com/a/50527994)
+[Using Bash on Windows in VScode](https://stackoverflow.com/a/50527994)
 
 ## Step 3 : Login to ssh
 First we have to get access to your course-specified CSE15L account here:

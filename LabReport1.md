@@ -46,8 +46,8 @@ Try running the commands cd, ls, pwd, mkdir, and cp a few times in different way
 
 Here are some specific useful commands to try:
 ~~~
--cd
--ls
+$ cd
+$ ls
 ~~~
 
 What each code does:

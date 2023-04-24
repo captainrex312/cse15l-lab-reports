@@ -59,5 +59,5 @@ What each code does:
 In order to log out of the remote server in your terminal, you can use:
 
 -Ctrl-D\
--Run the command: exit
+-Run the command: exit \
 ![Image](cs and ls.PNG)

@@ -7,9 +7,9 @@
 
 [Download Visual Studio Code](https://code.visualstudio.com/download)\
 Download the version of Visual Studio Code which is required for your operating system.
-For Windows example:
-1) Click Windows button on webiste after going to link.
-2) Open VSCode setup file that was just downloaded.
+For Windows example:\
+1) Click Windows button on webiste after going to link.\
+2) Open VSCode setup file that was just downloaded.\
 3) Open VSCode and beging coding!
 
 
@@ -50,8 +50,8 @@ $ cd
 $ ls
 ~~~
 
-What each code does:
-1) CD changes directory.
+What each code does:\
+1) CD changes directory.\
 2) LS lists the names of the files and directories in order to help you determine where you are. \
 **Example of both shown in next step**
 

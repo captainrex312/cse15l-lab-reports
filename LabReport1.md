@@ -23,7 +23,9 @@ First we have to get access to your course-specified CSE15L account here:
 [Account](https://sdacs.ucsd.edu/~icc/index.php)
 
 To use ssh, open a terminal in VScode. Your command will look like this but with the first part behind the @ being the course specified login (cs15l....):\
+~~~
 $ ssh cs15lwi23zz@ieng6.ucsd.edu\
+~~~
 It will prompt you to enter password, but it will **NOT** appear to be typing in terminal. This is for security reasons.\
 Since this is the first time you will connect to the server you will get prompted a message like this:\
 *The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.

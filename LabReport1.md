@@ -26,7 +26,7 @@ First we have to get access to your course-specified CSE15L account here:
 
 [Account](https://sdacs.ucsd.edu/~icc/index.php)
 
-To use ssh, open a terminal in VScode. Your command will look like this but with the first part behind the @ being the course specified login (cs15l....):\
+To use ssh, open a terminal in VScode. Your command will look like this but with the first part behind the @ being the course specified login (cs15l....):
 ~~~
 $ ssh cs15lwi23zz@ieng6.ucsd.edu\
 ~~~

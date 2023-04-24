@@ -45,11 +45,15 @@ An example of what should pop up in terminal:\
 Try running the commands cd, ls, pwd, mkdir, and cp a few times in different ways, both on your computer, and on the remote computer after ssh-ing (use the terminal in VScode).
 
 Here are some specific useful commands to try:
+~~~
+-cd
+-ls
+~~~
 
--cd ~\
--cd\
--ls -lat\
--ls -a\
+What each code does:
+1) CD changes directory.
+2) LS lists the names of the files and directories in order to help you determine where you are. 
+
 
 ## Step 5 : Logout of Server
 In order to log out of the remote server in your terminal, you can use:

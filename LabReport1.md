@@ -5,8 +5,12 @@
 ## Step 1: Download Visual Studio Code
 ![Image](Download VSCode.JPG)
 
-
+[Download Visual Studio Code](https://code.visualstudio.com/download)\
 Download the version of Visual Studio Code which is required for your operating system.
+For Windows example:
+1) Click Windows button on webiste after going to link.
+2) Open VSCode setup file that was just downloaded.
+3) Open VSCode and beging coding!
 
 
 ## Step 2 : Install Git and use Bash on Windows in VS Code

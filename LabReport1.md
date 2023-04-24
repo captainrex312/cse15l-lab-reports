@@ -51,7 +51,7 @@ $ ls
 ~~~
 
 What each code does:\
-1) CD changes directory.\
+1) CD2 changes directory.\
 2) LS lists the names of the files and directories in order to help you determine where you are. \
 **Example of both shown in next step**
 

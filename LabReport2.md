@@ -60,6 +60,54 @@ class StringServer {
 
 ## Choosing a bug from Lab 3
 
+Failure-inducing test:
+~~~
+public class ArrayTests {
+	@Test 
+    int[] input2 = {1, 2, 3};
+    ArrayExamples.reverseInPlace(input2);
+    assertArrayEquals(new int[]{3, 2, 1}, input2);
+	}
+
+~~~
+Non-Failure-inducing test: 
+~~~
+public class ArrayTests {
+	@Test 
+	public void testReverseInPlace() {
+    int[] input1 = { 3 };
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{ 3 }, input1);
+	}
+~~~
+
+Symptom:\
+![Image](Junitfail.jpg)
+
+
+Code with bug:
+~~~
+public class ArrayExamples {
+
+  // Changes the input array to be in reversed order
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+~~~
+
+Code with bug fixed: 
+~~~
+// Changes the input array to be in reversed order
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length / 2; i++) {
+      int temp = arr[i];
+      arr[i] = arr[arr.length - 1 - i];
+      arr[arr.length - 1 - i] = temp;
+    }
+  }
+~~~
 ## Something I learned in week 2 or 3.
 
 The main thing I learned in these last weeks that really blew my mind was creating a website and writing code that changed the website using a URL. Slowly, how websites truly work that we use everyday are starting to make sense to me in terms of the code that is required to run them. I found it absoltely fascinating that I was able to create a Server that would update a string with the URL as I did in this lab. 

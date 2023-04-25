@@ -58,3 +58,4 @@ class StringServer {
 3) How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.\
 -The field 'string' is originally the string "Hello", but is updated to "Hello" followed by "How are you" once the command is run.\
 
+## Choosing a bug from Lab 3

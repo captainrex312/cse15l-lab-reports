@@ -48,6 +48,7 @@ class StringServer {
 - The argument 'URL' is a url object representing the incoming request with the path '/add-message' and query string 'Hello.'\
 3) How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.\
 - The field 'string' is originally an empty string, but is updated to "Hello" once the command is run.\
+
 ![Image](How.jpg)
 
 1) Which methods in your code are called?\

@@ -109,7 +109,7 @@ Code with bug fixed:
   }
 ~~~
 
-Reason code was not working:
+Reason code was not working:\
 The original code with the bug was flipping the input twice. It was not noticable with the first test because it only had one element. Adding the test with more numbers allowed you to see that the code was flipping the Array twice. By adding a temporary variable and dividing the length of the argument by 2, you stop the Array from being flipped twice as it only flips to the middle element of the array. Of course, the middle element of the array does not need to be flipped, fixing the bug.\
 ## Something I learned in week 2 or 3.
 

@@ -38,4 +38,7 @@ class StringServer {
 }
 ~~~
 
-##
+## Using add-message
+
+![Image]Hello.jpg
+![Image}How.jpg

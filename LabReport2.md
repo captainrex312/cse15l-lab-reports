@@ -59,3 +59,7 @@ class StringServer {
 -The field 'string' is originally the string "Hello", but is updated to "Hello" followed by "How are you" once the command is run.\
 
 ## Choosing a bug from Lab 3
+
+## Something I learned in week 2 or 3.
+
+The main thing I learned in these last weeks that really blew my mind was creating a website and writing code that changed the website using a URL. Slowly, how websites truly work that we use everyday are starting to make sense to me in terms of the code that is required to run them. I found it absoltely fascinating that I was able to create a Server that would update a string with the URL as I did in this lab. 

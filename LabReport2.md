@@ -40,7 +40,7 @@ class StringServer {
 
 ## Using add-message
 
-![Image](Hello.jpg)
+![Image](Hello.JPG)
 
 1) Which methods in your code are called?\
 - The method called is: 'handleRequest(URI url)' of the 'Handler' class.\
@@ -49,7 +49,7 @@ class StringServer {
 3) How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.\
 - The field 'string' is originally an empty string, but is updated to "Hello" once the command is run.\
 
-![Image](How.jpg)
+![Image](How.JPG)
 
 1) Which methods in your code are called?\
 - The method called is: 'handleRequest(URI url)' of the 'Handler' class.\
@@ -82,7 +82,7 @@ public class ArrayTests {
 ~~~
 
 Symptom:\
-![Image](Junitfail.jpg)
+![Image](Junitfail.JPG)
 
 
 Code with bug:

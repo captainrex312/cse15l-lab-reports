@@ -108,6 +108,9 @@ Code with bug fixed:
     }
   }
 ~~~
+
+Reason code was not working:
+The original code with the bug was flipping the input twice. It was not noticable with the first test because it only had one element. Adding the test with more numbers allowed you to see that the code was flipping the Array twice. By adding a temporary variable and dividing the length of the argument by 2, you stop the Array from being flipped twice as it only flips to the middle element of the array. Of course, the middle element of the array does not need to be flipped, fixing the bug.\
 ## Something I learned in week 2 or 3.
 
 The main thing I learned in these last weeks that really blew my mind was creating a website and writing code that changed the website using a URL. Slowly, how websites truly work that we use everyday are starting to make sense to me in terms of the code that is required to run them. I found it absoltely fascinating that I was able to create a Server that would update a string with the URL as I did in this lab. 

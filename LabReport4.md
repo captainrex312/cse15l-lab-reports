@@ -23,14 +23,14 @@ Type in :
 ~~~
 ?index1
 ~~~
-to search for index 1 from the bottom up. This will immediately go to the correct one that we need to alter.
+to search for index 1 from the bottom up. This will immediately go to the correct one that we need to alter.\
 Next, type :
 ~~~
 wq
 ~~~
-and press the left arrow twice, <left><left> in order to get to the "1"
-Press "x" to remove the "1", followed by pressing "i" to enter insert mode. Type "2" in order to add it correctly.
-Press escape to exit insert mode.
+and press the left arrow twice, <left><left> in order to get to the "1"\
+Press "x" to remove the "1", followed by pressing "i" to enter insert mode. Type "2" in order to add it correctly.\
+Press escape to exit insert mode.\
 Type :
 ~~~
 :wq

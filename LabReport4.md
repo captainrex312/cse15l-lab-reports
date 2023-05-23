@@ -2,16 +2,16 @@
 
 ## Step 1 : Log into ssh ieng6
 
-[Image](Login)
+![Image](Login.JPG)
 
 ## Steo 2 : Clone your fork of the repository from your Github account
 
 
-[Image](Fork)
+![Image](Fork.JPG)
 
 ## Step 3 : Run tests to show they fail
 
-[Image](Testfail)
+![Image](Testfail.JPG)
 
 ## Step 4: Edit the code to fix the failing test
 
@@ -35,7 +35,7 @@ Type :
 ~~~
 :wq
 ~~~
-[Image](Openfail)
+![Image](Openfail.JPG)
 
 ## Step 5 : Run tests to show they pass
   
@@ -43,4 +43,4 @@ Type :
 
 ## Step 6 : Commit and push to github
   
-[Image](Gitpush)
+![Image](Gitpush.JPG)

@@ -36,3 +36,11 @@ Type :
 :wq
 ~~~
 [Image](Openfail)
+
+## Step 5 : Run tests to show they pass
+  
+[Image](Testpass)
+
+## Step 6 : Commit and push to github
+  
+[Image](Gitpush)

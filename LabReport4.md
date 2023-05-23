@@ -39,7 +39,7 @@ Type :
 
 ## Step 5 : Run tests to show they pass
   
-[Image](Testpass)
+![Image](Testpass.JPG)
 
 ## Step 6 : Commit and push to github
   

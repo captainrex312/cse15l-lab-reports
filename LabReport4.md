@@ -18,7 +18,7 @@ git clone https://github.com/ucsd-cse15l-s23/lab7 <enter>
 ~~~
 ![Image](Gitclone.JPG)
 
-LS into lab7 in order to access the files. 
+Change Directory into lab7 in order to access the files. 
 ~~~
 cd lab7/ <enter>
 ~~~

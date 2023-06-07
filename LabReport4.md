@@ -6,8 +6,9 @@
 
 ## Step 2 : Clone your fork of the repository from your Github account
 
-
-![Image](Fork.JPG)
+~~~
+git clone <GITHUB URL>
+~~~
 
 ## Step 3 : Run tests to show they fail
 

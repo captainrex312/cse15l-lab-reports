@@ -18,6 +18,11 @@ git clone https://github.com/ucsd-cse15l-s23/lab7 <enter>
 ~~~
 ![Image](Gitclone.JPG)
 
+LS into lab7.
+~~~
+cd lab7/ <enter>
+~~~
+
 ## Step 3 : Run tests to show they fail
 
 ![Image](Testfail.JPG)

@@ -4,7 +4,7 @@
 
 ![Image](Login.JPG)
 
-## Steo 2 : Clone your fork of the repository from your Github account
+## Step 2 : Clone your fork of the repository from your Github account
 
 
 ![Image](Fork.JPG)
@@ -17,16 +17,16 @@
 
 Open the file in order to edit the code by using the command :
 ~~~
-vim ListExamples.java
+vim ListExamples.java <enter>
 ~~~
 Type in :
 ~~~
-?index1
+?index1 <enter>
 ~~~
 to search for index 1 from the bottom up. This will immediately go to the correct one that we need to alter.\
 Next, type :
 ~~~
-wq
+wq <enter>
 ~~~
 and press the left arrow twice, <left><left> in order to get to the "1"\
 Press "x" to remove the "1", followed by pressing "i" to enter insert mode. Type "2" in order to add it correctly.\

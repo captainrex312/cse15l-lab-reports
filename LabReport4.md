@@ -54,7 +54,7 @@ and press the left arrow twice,
 in order to get to the "1"\
 Press "x" to remove the "1", followed by pressing "i" to enter insert mode. Type "2" in order to add it correctly.\
 Press escape to exit insert mode.\
-Type :
+Type : (in order to save)
 ~~~
 :wq <enter>
 ~~~
